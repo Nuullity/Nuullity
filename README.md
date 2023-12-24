@@ -1,4 +1,6 @@
-### Hi there 👋
+### Opa, me chame de Nuull
+### Não confunda, não sou um programador
+### apenas uma pessoa que gosta de aprender e fazer coisas diferentes UwU
 
 <!--
 **Nuullity/Nuullity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
